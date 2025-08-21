@@ -66,9 +66,11 @@ Single-step activity that fills bookmarks and exports to PDF in one go.
 
 ## 💡 Use Cases
 
-- Business analysts or users can ask questions about databases without writing SQL.
-- Generate reports or summaries from live data with Gemini.
-- Automate insight generation from structured data.
+- Automating **banking letters** (e.g., loan approval, rejection, or KYC requests).  
+- Generating **contracts, invoices, and reports** with dynamic values.  
+- Filling **customer communication templates** (welcome letters, statements).  
+- Standardizing **audit reports** or compliance documents.  
+- Preparing **insurance policies** or claim letters at scale. 
 
 ---
 
