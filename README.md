@@ -90,7 +90,7 @@ Single-step activity that fills bookmarks and exports to PDF in one go.
 ```vb
 New Dictionary(Of String, String) From
 {
-    {"CustomerName", "John Doe"},
+    {"CustomerName", "Amr Ezzat"},
     {"AccountNumber", "1234567890"}
 }
 ```
